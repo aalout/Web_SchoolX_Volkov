@@ -19,7 +19,8 @@ var, let, const
 let, const - блоччные
 var - функциональная (можно вызвать в любой точке кода) (не использовать)
 
+#/................ДЗ................\#
 Что в nest js в документации читать
 Introduction
-Скачать nest.js
+Overview ----- First steps ------ Controllers ------- Providers ------- Modules
 
